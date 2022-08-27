@@ -1,9 +1,3 @@
-# Disclaimer
-
-solution are shared just for the purpose to help beginner, **to revise** and not for credits ✌.
-
-# Note
-
 - THIS REPO IS JUST A SOLUTION FOR QUESTION GIVEN IN DSA SHEET
 
 # Credits
